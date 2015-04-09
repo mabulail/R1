@@ -13,6 +13,8 @@ namespace ConsoleApplication1
             string i = "101";
 
             Console.WriteLine(i.ToString());
+
+            Console.ReadKey();
         }
     }
 }
