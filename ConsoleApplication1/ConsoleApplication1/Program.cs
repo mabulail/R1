@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            string i = "101";
+            string i = "101222222";
 
             Console.WriteLine(i.ToString());
         }
