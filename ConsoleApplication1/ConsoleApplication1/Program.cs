@@ -13,6 +13,9 @@ namespace ConsoleApplication1
             string i = "101222222";
 
             Console.WriteLine(i.ToString());
+
+            Console.WriteLine(i.ToString());
+            Console.WriteLine(i.ToString());
         }
     }
 }
