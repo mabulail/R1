@@ -18,6 +18,8 @@ namespace ConsoleApplication1
 
             Console.ReadKey();
             Console.WriteLine(i.ToString());
+
+            Console.WriteLine(i.ToString());
         }
     }
 }
