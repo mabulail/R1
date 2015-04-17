@@ -20,6 +20,9 @@ namespace ConsoleApplication1
             Console.WriteLine(i.ToString());
 
             Console.WriteLine(i.ToString());
+            
+            
+            
         }
     }
 }
